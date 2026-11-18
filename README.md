@@ -29,9 +29,6 @@ A streamlined back-end REST API built using Python and FastAPI framework to mana
 2. **Create and Activate a Virtual Environment:**
    ```bash
    python -m venv venv
-   # Mac/Linux
-   source venv/bin/activate
-   # Windows
    .\venv\Scripts\activate
    ```
 3. **Install Dependencies:**
